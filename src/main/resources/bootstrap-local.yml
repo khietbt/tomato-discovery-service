@@ -1,4 +1,4 @@
 CONFIG_SERVER_URI: http://localhost:8080
 EUREKA_CLIENT_SERVICE_URL_DEFAULT_ZONE: http://${eureka.instance.hostname}:${server.port}/eureka
 EUREKA_INSTANCE_HOSTNAME: localhost
-#SERVER_PORT: 8761
+SERVER_PORT: 8761
